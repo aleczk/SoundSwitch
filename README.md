@@ -1,4 +1,7 @@
-# SoundSwitch [![Last Release](https://img.shields.io/github/release/Belphemur/SoundSwitch.svg)](https://soundswitch.aaflalo.me) [![Downloads for last Release](https://img.shields.io/github/downloads/Belphemur/SoundSwitch/total.svg)](https://soundswitch.aaflalo.me/) [![Donate](https://img.shields.io/badge/Donate-paypal%2Fcc-blue.svg)](https://soundswitch.aaflalo.me) [![Translate](https://hosted.weblate.org/widgets/soundswitch/-/svg-badge.svg)](https://hosted.weblate.org/projects/soundswitch/)
+<a href="https://soundswitch.aaflalo.me" title="SoundSwitch website"><img src="https://soundswitch.aaflalo.me/img/Main-Logo-Blue.svg" alt="logo SoundSwitch" height="180px" style="margin-left:auto;margin-right:auto;display:block;"></a>
+
+[![Last Release](https://img.shields.io/github/release/Belphemur/SoundSwitch.svg)](https://soundswitch.aaflalo.me) [![Downloads for last Release](https://img.shields.io/github/downloads/Belphemur/SoundSwitch/total.svg)](https://soundswitch.aaflalo.me/) [![Donate](https://img.shields.io/badge/Donate-paypal%2Fcc-blue.svg)](https://soundswitch.aaflalo.me) [![Translate](https://hosted.weblate.org/widgets/soundswitch/-/svg-badge.svg)](https://hosted.weblate.org/projects/soundswitch/)
+
 **SoundSwitch** offers you the opportunity to switch your playback devices and/or recording devices using simple hotkeys.
 
 **No more** navigating througth several menus and screens. Just configure SoundSwitch **once** - and you are able to switch between your devices as fast as never before!
@@ -71,7 +74,7 @@ This is one of the interesting feature, the auto-updater. Every 24h SoundSwitch 
 There are three different options available: **Silent**, means the program updates itself in the background without any prompts. **Notify**, you will be notified when there's an update available. **Never**, well this is self-explained.
 
 ### Multi-Language Support
-There are three languages available: **English**, **French**, **German** and **Spanish**.
+There are five languages available: **English**, **French**, **German**, **Spanish**, **Italian** and **Portuguese(Brazil)**.
 
 Would you like to help us with the localization? Great! See [Add or modify another language](https://github.com/Belphemur/SoundSwitch/wiki/Add-or-modify-another-language) for further informations.
 
@@ -90,6 +93,7 @@ Would you like to help us with the localization? Great! See [Add or modify anoth
 - Notification Sound, [Music box notification sound by Robinhood76](https://www.freesound.org/people/Robinhood76/sounds/216676/).
 - Spanish Language [#244](https://github.com/Belphemur/SoundSwitch/pull/244) [@plextoriano](https://github.com/plextoriano)
 - Portuguese (Brazilian) [#258](https://github.com/Belphemur/SoundSwitch/pull/258) [@aleczk](https://github.com/aleczk)
+- Awesome Logo  [#278](https://github.com/Belphemur/SoundSwitch/pull/278) [@linadesteem](https://github.com/linadesteem)
 
 ## Thanks
 
